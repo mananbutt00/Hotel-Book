@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841276993068",
+    "project_id": "gitrexfirebase-9398d",
+    "storage_bucket": "gitrexfirebase-9398d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841276993068:android:4b1172a488ad32bf02eb89",
+        "android_client_info": {
+          "package_name": "com.gitrex_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841276993068-7lb0nvlr5d15itgqpkf3ucdo7t5b9reu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1Jy7EgvGw31alKEl5QOpYBDoHfxKVds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841276993068-7lb0nvlr5d15itgqpkf3ucdo7t5b9reu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
